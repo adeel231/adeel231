@@ -1,4 +1,4 @@
-<img style="height:365px;width:100%" src="https://github.com/adeel231/adeel231/blob/main/1684483123190.jpg" type="image">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="adeel231" /> </p>
 <div align="center">
     <h1> Hi there, I’m Adeel Ahmad 👋<a href="https://adeel231.github.io/profile/"></h1>
